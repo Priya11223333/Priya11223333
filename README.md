@@ -1,23 +1,29 @@
-# Hello, I'm Priyanka!
+# 👋 Hi, I'm Priyanka!
 
-## About Me
-I am a Computer Science Engineering student.
+### 👩‍💻 M.Tech CSE Student | Aspiring Software Developer
 
-## Education
-- M.Tech in Computer Science Engineering
-- B.Tech in Artificial Intelligence and Data Science
+🎓 **Education**
+- M.Tech – Computer Science Engineering
+- B.Tech – Artificial Intelligence & Data Science
 
-## Technical Skills
+### 💻 Technical Skills
 - Python
 - C Programming
 - SQL
 - Machine Learning
 
-## Projects
-- Smart Irrigation and Plant Monitoring System
-
-## Interests
-- Learning New Technologies
+### 🚀 Areas of Interest
+- Artificial Intelligence
 - Machine Learning
 - Software Development
-- creating and using the LLM models
+- Internet of Things (IoT)
+
+### 🌱 Currently Learning
+- Advanced Python
+- Data Structures & Algorithms
+- Machine Learning
+
+### ✨ My Goal
+To learn, build innovative projects, and grow as a software professional.
+
+**"Keep Learning, Keep Building!"** 🚀
