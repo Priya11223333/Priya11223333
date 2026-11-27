@@ -11,15 +11,7 @@
 
 ---
 
-## 👩‍💻 About Me
 
-- 🎓 Pursuing M.Tech in Computer Science Engineering.
-- 🎓 B.Tech in Artificial Intelligence and Data Science.
-- 💡 Interested in programming, AI, Machine Learning and software development.
-- 🌱 Learning, practicing and training through hands-on projects.
-- 👋 Hi, I'm Priyanka!
-
-👩‍💻 M.Tech CSE Student | Aspiring Educator | ML & DL Enthusiast
 
 🎓 Education
 
@@ -35,46 +27,28 @@
 
 🚀 Areas of Interest
 
-- 👩‍🏫 Teaching & Academic Career
-- 🤖 Machine Learning (ML)
-- 🧠 Deep Learning (DL)
-- Artificial Intelligence (AI)
-- Internet of Things (IoT)
-- Software Development
-
-📚 Academic Interests
-
-- Teaching Computer Science Concepts
-- Machine Learning Algorithms
-- Deep Learning Techniques
 - Artificial Intelligence
-- Making Complex Concepts Easy to Understand
+- Machine Learning
+- Software Development
+- Internet of Things (IoT)
 
 🌱 Currently Learning
 
 - Advanced Python
 - Data Structures & Algorithms
 - Machine Learning
-- Deep Learning
 
-🎯 Career Goal
+✨ My Goal
 
-To build a successful career in teaching and academia, share knowledge with students, and contribute to the fields of Machine Learning, Deep Learning, and Artificial Intelligence.
+To learn, build innovative projects, and grow as a software professional.
 
-✨ My Motto
-
-"Keep Learning, Keep Teaching, Keep Growing!" 🚀
-
----
-
-⭐ Thanks for visiting my GitHub profile!
+"Keep Learning, Keep Building!" 🚀
 
 
-  - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn profile URL
+
+
+
 
 
   
 
-print(f"Created {zip_path}")
-print("Files: README.md and skills.svg")
