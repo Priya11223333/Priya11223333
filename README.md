@@ -17,43 +17,64 @@
 - 🎓 B.Tech in Artificial Intelligence and Data Science.
 - 💡 Interested in programming, AI, Machine Learning and software development.
 - 🌱 Learning, practicing and training through hands-on projects.
+- 👋 Hi, I'm Priyanka!
 
-## 🛠️ Skills — Learning & Practice Progress
+👩‍💻 M.Tech CSE Student | Aspiring Educator | ML & DL Enthusiast
 
-*My current learning and practice progress is 80% across the skills shown below.*
-These circles represent self-reported learning/practice progress, not a verified proficiency or exam score.
+🎓 Education
 
-<div align="center">
-  <img src="./skills.svg" alt="Circular learning and practice progress: 80 percent for each skill" width="720" />
-</div>
+- M.Tech – Computer Science Engineering
+- B.Tech – Artificial Intelligence & Data Science
 
-## 🎓 Learning Journey
+💻 Technical Skills
 
-mermaid
-flowchart TD
-    A["B.Tech - AI & Data Science"] --> B["M.Tech - Computer Science"]
-    B --> C["Learn Concepts"]
-    C --> D["Practice Skills"]
-    D --> E["Apply Through Projects"]
+- Python
+- C Programming
+- SQL
+- Machine Learning
+
+🚀 Areas of Interest
+
+- 👩‍🏫 Teaching & Academic Career
+- 🤖 Machine Learning (ML)
+- 🧠 Deep Learning (DL)
+- Artificial Intelligence (AI)
+- Internet of Things (IoT)
+- Software Development
+
+📚 Academic Interests
+
+- Teaching Computer Science Concepts
+- Machine Learning Algorithms
+- Deep Learning Techniques
+- Artificial Intelligence
+- Making Complex Concepts Easy to Understand
+
+🌱 Currently Learning
+
+- Advanced Python
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+
+🎯 Career Goal
+
+To build a successful career in teaching and academia, share knowledge with students, and contribute to the fields of Machine Learning, Deep Learning, and Artificial Intelligence.
+
+✨ My Motto
+
+"Keep Learning, Keep Teaching, Keep Growing!" 🚀
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
 
 
-## 📂 Projects
-
-| Project | Area |
-|---|---|
-| Fake Image Detection using CNN | Deep Learning |
-| Student Performance Prediction | Machine Learning |
-| Smart Irrigation and Plant Monitoring | IoT |
-
-
-
-## 📫 Connect
-
-- GitHub: https://github.com/YOUR_USERNAME
+  - GitHub: https://github.com/YOUR_USERNAME
 - LinkedIn: Add your LinkedIn profile URL
 
 
-    z.write(base / "skills.svg", "skills.svg")
+  
 
 print(f"Created {zip_path}")
 print("Files: README.md and skills.svg")
