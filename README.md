@@ -45,14 +45,6 @@ flowchart TD
 | Student Performance Prediction | Machine Learning |
 | Smart Irrigation and Plant Monitoring | IoT |
 
-## 🚀 My Learning Cycle
-
-mermaid
-flowchart LR
-    A["Learn"] --> B["Practice"]
-    B --> C["Build Projects"]
-    C --> D["Improve"]
-    D --> A
 
 
 ## 📫 Connect
@@ -60,24 +52,7 @@ flowchart LR
 - GitHub: https://github.com/YOUR_USERNAME
 - LinkedIn: Add your LinkedIn profile URL
 
----
 
-<div align="center">
-  ⭐ Thanks for visiting my profile!
-</div>
-"""
-
-
-        f'<text x="{cx}" y="{cy+7}" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="20" font-weight="700">80%</text>',
-        f'<text x="{cx}" y="{cy+67}" text-anchor="middle" fill="#E2E8F0" font-family="Arial,sans-serif" font-size="14" font-weight="600">{label}</text>',
-    ]
-svg.append("</svg>")
-
-(base / "README.md").write_text(readme, encoding="utf-8")
-(base / "skills.svg").write_text("\n".join(svg), encoding="utf-8")
-zip_path = Path("/mnt/data/Priyanka_GitHub_Profile_80_Percent.zip")
-with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
-    z.write(base / "README.md", "README.md")
     z.write(base / "skills.svg", "skills.svg")
 
 print(f"Created {zip_path}")
