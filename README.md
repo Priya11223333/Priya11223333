@@ -1,29 +1,58 @@
 # 👋 Hi, I'm Priyanka!
 
-### 👩‍💻 M.Tech CSE Student | Aspiring Software Developer
+### 🎓 M.Tech Computer Science Engineering Student
+💻 Python | AI | Machine Learning
 
-🎓 **Education**
-- M.Tech – Computer Science Engineering
-- B.Tech – Artificial Intelligence & Data Science
+## 👩‍💻 About Me
+- 🎓 Pursuing M.Tech in Computer Science Engineering.
+- 🎓 B.Tech in Artificial Intelligence and Data Science.
+- 💡 Interested in Artificial Intelligence and Software Development.
+- 🌱 Always learning new technologies.
 
-### 💻 Technical Skills
-- Python
-- C Programming
-- SQL
-- Machine Learning
+## 🎯 My Learning Journey
 
-### 🚀 Areas of Interest
+```mermaid
+flowchart TD
+    A["B.Tech - AI & DS"] --> B["M.Tech - CSE"]
+    B --> C["Programming Skills"]
+    C --> D["Machine Learning"]
+    D --> E["Project Development"]
+```
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|---|---|
+| Programming | C, Python |
+| Database | SQL |
+| Web | HTML, CSS |
+| Concepts | AI, ML |
+
+## 📂 My Projects
+
+1. Fake Image Detection Using CNN
+2. Smart Irrigation and Plant Monitoring System
+3. Student Performance Prediction
+
+## 🚀 My Career Roadmap
+
+```mermaid
+flowchart LR
+    A["Learn"] --> B["Practice"]
+    B --> C["Build Projects"]
+    C --> D["Grow"]
+```
+
+## 🌟 Areas of Interest
+
 - Artificial Intelligence
 - Machine Learning
 - Software Development
-- Internet of Things (IoT)
+- Internet of Things
 
-### 🌱 Currently Learning
-- Advanced Python
-- Data Structures & Algorithms
-- Machine Learning
+## 📫 Connect With Me
 
-### ✨ My Goal
-To learn, build innovative projects, and grow as a software professional.
+- GitHub: https://github.com/YOUR_USERNAME
 
-**"Keep Learning, Keep Building!"** 🚀
+---
+⭐ Thanks for visiting my profile!
